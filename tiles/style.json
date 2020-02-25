@@ -4,7 +4,7 @@
         "mvt": {
             "type": "vector",
             "tiles": [
-                "{z}/{x}/{y}.pbf"
+                "https://kanahiro.github.io/tiles/{z}/{x}/{y}.pbf"
             ]
         }
     },
