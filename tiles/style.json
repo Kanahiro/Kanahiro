@@ -1,0 +1,24 @@
+{
+    "version": 8,
+    "sources": {
+        "mvt": {
+            "type": "vector",
+            "tiles": [
+                "./{z}/{x}/{y}.pbf"
+            ]
+        }
+    },
+    "layers": [
+        {
+            "id": "shibetsu_kido_d8bd01eb_12cf_4771_9b05_0bcb5ec3f1f3",
+            "source": "mvt",
+            "source-layer": "shibetsu_kido_d8bd01eb_12cf_4771_9b05_0bcb5ec3f1f3",
+            "type": "line",
+            "paint": {
+                "line-color": "#de7aa5",
+                "line-width": 5,
+                "line-opacity": 1.0
+            }
+        }
+    ]
+}
