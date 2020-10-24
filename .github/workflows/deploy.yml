@@ -12,13 +12,12 @@ jobs:
         steps:
             - name: checkout
             - uses: actions/checkout@v2
-            - name: build
             - name: setup Node
               uses: actions/setup-node@v1
               with:
                   node-version: 10.x
                   registry-url: 'https://registry.npmjs.org'
-            - name: install dependencies
+            - name: install dependencies and build
               run: |
                   npm install
                   npm run build
