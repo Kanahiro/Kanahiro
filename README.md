@@ -3,3 +3,5 @@
 ## Writing
 
 [現場のプロがわかりやすく教える 位置情報エンジニア養成講座 - 秀和システム](https://www.shuwasystem.co.jp/book/9784798068923.html)
+
+The first book in Japan to instruct WebGIS development, including Geospatial fundamentals, data processing, QGIS, Leaflet, MapLibre GL JS.
