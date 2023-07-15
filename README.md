@@ -10,6 +10,6 @@
 
 The first book in Japan to instruct WebGIS development, including Geospatial fundamentals, data processing, QGIS, Leaflet, MapLibre GL JS.
 
-[Software Design 2023年8月号](https://gihyo.jp/magazine/SD/archive/2023/202308)
+[Software Design 2023年8月号 - 技術評論社](https://gihyo.jp/magazine/SD/archive/2023/202308)
 
 Software Design is one of the most famous magazine for engineers. I wrote a essay which describe a concept of geospatial technology for it.
