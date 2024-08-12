@@ -1,8 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanahiro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Profile
 
-[About me - Notion](https://kanahiro.notion.site/kanahiro/About-me-1b71ad71c3594e19bec35159519da722)
+https://spatialty.io/  
+https://kanahiro.notion.site/kanahiro/About-me-1b71ad71c3594e19bec35159519da722
 
 ## Writing
 
