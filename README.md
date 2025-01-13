@@ -1,7 +1,6 @@
 ## Profile
 
-https://spatialty.io/  
-https://kanahiro.notion.site/kanahiro/About-me-1b71ad71c3594e19bec35159519da722
+https://portfolio-spatialtyio.super.site/
 
 ## Writing
 
