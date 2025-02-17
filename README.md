@@ -1,6 +1,7 @@
 ## Profile
 
-https://portfolio-spatialtyio.super.site/
+- https://portfolio-spatialtyio.super.site/
+- MapLibre User Group Japan @mug-jp
 
 ## Writing
 
