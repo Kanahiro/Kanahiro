@@ -2,6 +2,7 @@
 
 - https://portfolio-spatialtyio.super.site/
 - MapLibre User Group Japan @mug-jp
+- AWS Community Builder - Serverless (2025 -)
 
 ## Writing
 
