@@ -1,8 +1,10 @@
 ## Profile
 
-- https://portfolio-spatialtyio.super.site/
-- MapLibre User Group Japan @mug-jp
-- AWS Community Builder - Serverless (2025 -)
+https://portfolio-spatialtyio.super.site/
+
+- MIERUNE Inc. CTO (2023 - )
+- MapLibre User Group Japan @mug-jp (2023 - )
+- AWS Community Builder - Serverless (2025 - )
 
 ## Writing
 
