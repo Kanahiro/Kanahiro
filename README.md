@@ -11,7 +11,7 @@ https://portfolio-spatialtyio.super.site/
 [現場のプロがわかりやすく教える 位置情報エンジニア養成講座 - 秀和システム](https://www.shuwasystem.co.jp/book/9784798068923.html)  
 The first book in Japan to instruct WebGIS development, including Geospatial fundamentals, data processing, QGIS, Leaflet, MapLibre GL JS.  
 [現場のプロがわかりやすく教える 位置情報デベロッパー養成講座 - 秀和システム](https://www.shuwasystem.co.jp/book/9784798072241.html)  
-The sequel of the first book, focusing on server-side techniques like REST-API, tile server, satellite image, using PostGIS, FastAPI, rasterio...
+The sequel of the first book, focusing on server-side techniques like REST-API, tile server, satellite image, using PostGIS, FastAPI, rasterio...  
 [位置情報を扱う人のための実践QGIS - 秀和システム](https://www.shuwasystem.co.jp/book/9784798074726.html)  
 A book to instruct how to use QGIS or what can be used for with many specific usecases.
 
