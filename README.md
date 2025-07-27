@@ -1,6 +1,6 @@
 ## Profile
 
-https://portfolio-spatialtyio.super.site/
+https://spatialty.io/
 
 - MIERUNE Inc. (2020 - )
 - MapLibre User Group Japan @mug-jp (2023 - )
